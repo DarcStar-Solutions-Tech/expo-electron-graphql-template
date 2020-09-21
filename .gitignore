@@ -1,3 +1,4 @@
+**/__tests__/**/__snapshots__/**
 node_modules/**/*
 .expo/*
 npm-debug.*
@@ -11,3 +12,13 @@ web-build/
 
 # macOS
 .DS_Store
+
+# @generated: @expo/electron-adapter@0.0.18
+/.expo/*
+# Expo Web
+/web-build/*
+# electron-webpack
+/dist
+# @end @expo/electron-adapter
+
+.idea
