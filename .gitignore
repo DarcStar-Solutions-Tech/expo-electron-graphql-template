@@ -13,7 +13,7 @@ web-build/
 # macOS
 .DS_Store
 
-# @generated: @expo/electron-adapter@0.0.18
+# @generated: @expo/electron-adapter@0.0.20
 /.expo/*
 # Expo Web
 /web-build/*
@@ -21,4 +21,12 @@ web-build/
 /dist
 # @end @expo/electron-adapter
 
-.idea
+.idea/**
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
