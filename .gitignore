@@ -30,3 +30,19 @@ web-build/
 !.vscode/extensions.json
 *.code-workspace
 
+
+# @generated: @expo/electron-adapter@0.0.22
+/.expo/*
+# Expo Web
+/web-build/*
+# electron-webpack
+/dist
+# @end @expo/electron-adapter
+
+# @generated: @expo/electron-adapter@0.0.25
+/.expo/*
+# Expo Web
+/web-build/*
+# electron-webpack
+/dist
+# @end @expo/electron-adapter

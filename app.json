@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Myles is Awesome",
-    "slug": "myles-is-awesome",
+    "name": "Expo Electron GraphQL Template",
+    "slug": "expo-electron-graphql-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
