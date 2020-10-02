@@ -74,10 +74,5 @@
     "react-test-renderer": "^16.13.1",
     "typescript": "~4.0.3"
   },
-  "resolutions": {
-    "**/**/react": "16.13.1",
-    "**/**/react-dom": "16.13.1",
-    "**/**/react-is": "16.13.1"
-  },
   "private": true
 }
